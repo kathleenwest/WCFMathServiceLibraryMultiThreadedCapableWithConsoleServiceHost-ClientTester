@@ -1,0 +1,5 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFMathServiceLibraryMultiThreadedCapableWithConsoleServiceHost&ClientTester\Utilities\bin\Release\Utilities.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFMathServiceLibraryMultiThreadedCapableWithConsoleServiceHost&ClientTester\Utilities\bin\Release\Utilities.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFMathServiceLibraryMultiThreadedCapableWithConsoleServiceHost&ClientTester\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFMathServiceLibraryMultiThreadedCapableWithConsoleServiceHost&ClientTester\Utilities\obj\Release\Utilities.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFMathServiceLibraryMultiThreadedCapableWithConsoleServiceHost&ClientTester\Utilities\obj\Release\Utilities.pdb
